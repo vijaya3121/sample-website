@@ -56,8 +56,7 @@ http://<your_vm_public_ip>:8080
 - Deploy to Kubernetes
 - Push image to Azure Container Registry (ACR)
 - Automate builds using GitHub Actions CI/CD
-
-  ---
+---
 ## 👩‍💻 Author
 
 Vijaya Reddy
